@@ -75,7 +75,6 @@ export const HeroLeftContainer = styled.div`
 `;
 
 export const HeroRightContainer = styled.div`
-
   width: 100%;
   display: flex;
   order: 2;
@@ -95,6 +94,9 @@ export const HeroRightContainer = styled.div`
 
 export const Img = styled.img`
   box-shadow: 8px 8px 20px rgba(133, 76, 190, 0.4);
+  background-color: rgba(147, 118, 153, 0.2);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
   position: relative;
   width: 100%;
   height: 100%;
