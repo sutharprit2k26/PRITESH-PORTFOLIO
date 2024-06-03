@@ -29,7 +29,7 @@ const Navbar = () => {
           <NavLink href='#experience'>Experience</NavLink>
           <NavLink href='#skills'>Skills</NavLink>
           <NavLink href='#projects'>Projects</NavLink>
-          <NavLink href={Bio.github} target='_blank'>Github</NavLink>
+          {/* <NavLink href={Bio.github} target='_blank'>Github</NavLink> */}
         </NavItems>
         <ButtonContainer>
           <GitHubButton href={Bio.resule_down} target="">Download CV</GitHubButton>
