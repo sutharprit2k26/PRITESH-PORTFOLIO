@@ -93,7 +93,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Pritesh Kumar Suthar</Logo>
+        
         
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
@@ -102,8 +102,9 @@ function Footer() {
           <SocialMediaIcon href={Bio.mail} target="display"><GmailIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
-        
-
+        <Copyright>
+          <Logo>&copy; Pritesh Kumar Suthar 2024</Logo>
+        </Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
