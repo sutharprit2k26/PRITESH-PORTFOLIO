@@ -49,9 +49,9 @@ const Navbar = () => {
             <MobileLink href='#projects' onClick={() => {
               setIsOpen(!isOpen)
             }}>Projects</MobileLink>
-            <MobileLink href={Bio.github} target='_blank' onClick={() => {
+            {/* <MobileLink href={Bio.github} target='_blank' onClick={() => {
               setIsOpen(!isOpen)
-            }}>GitHub</MobileLink>
+            }}>GitHub</MobileLink> */}
             <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.resule_down} target="_blank">Download CV</GitHubButton>
           </MobileMenu>
         }
