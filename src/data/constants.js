@@ -7,9 +7,9 @@ export const Bio = {
     "I'm a passionate Software Engineer with over two years of experience as a Python developer and AI/LLM enthusiast. I transform complex problems into innovative solutions using cutting-edge tech.\nI've led AI projects, developed intelligent systems with Langchain and LlamaIndex, and optimized processes for peak efficiency. I excel in semantic and lexical search, leveraging embeddings and OpenAI. My skills include FastAPI services, robust data pipelines, Python Backend Development.\nDriven by curiosity and excellence, I'm ready to innovate. Let's connect and create something amazing together!",
   github: "https://github.com/sutharprit2k26",
   resume:
-    "https://drive.google.com/file/d/14BqP1Ueh7hO9ZGVEaT_0jUi-jUClK_hv/view?usp=sharing",
+    "https://drive.google.com/file/d/1hKtUC_hsNHajKOKXMtJQqXoZbs1UQYeE/view?usp=sharing",
   resule_down:
-    "https://drive.usercontent.google.com/u/0/uc?id=14BqP1Ueh7hO9ZGVEaT_0jUi-jUClK_hv&export=download",
+    "https://drive.usercontent.google.com/u/0/uc?id=1hKtUC_hsNHajKOKXMtJQqXoZbs1UQYeE&export=download",
   linkedin: "https://www.linkedin.com/in/pritesh-kumar-881567182/",
   twitter: "#",
   insta: "https://www.instagram.com/suthar__pritesh/",
